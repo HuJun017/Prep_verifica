@@ -2,7 +2,7 @@ import { Component } from '@angular/core';
 import { QuartoComponent } from '../quarto/quarto.component';
 
 @Component({
-  selector: 'app-terzo',
+  selector: 'app-third-component',
   imports: [QuartoComponent],
   templateUrl: './terzo.component.html',
   styleUrl: './terzo.component.css'
