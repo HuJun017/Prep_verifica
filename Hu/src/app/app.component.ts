@@ -11,4 +11,5 @@ import { TerzoComponent } from './terzo/terzo.component';
 })
 export class AppComponent {
   title = 'Hu';
+  name: string = "app";
 }

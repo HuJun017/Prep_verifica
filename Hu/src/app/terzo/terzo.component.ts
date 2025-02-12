@@ -8,5 +8,5 @@ import { QuartoComponent } from '../quarto/quarto.component';
   styleUrl: './terzo.component.css'
 })
 export class TerzoComponent {
-
+  name: string = 'terzo';
 }

@@ -4,8 +4,8 @@ import { Component } from '@angular/core';
   selector: 'app-quarto',
   imports: [],
   templateUrl: './quarto.component.html',
-  styleUrl: './quarto.component.css'
+  styleUrl: './quarto.component.css',
 })
 export class QuartoComponent {
-
+  name: string = 'quarto';
 }
